@@ -1,1 +1,0 @@
-this is equin-shrimp1's fist git project
